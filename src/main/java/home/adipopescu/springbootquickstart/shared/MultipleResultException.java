@@ -1,4 +1,4 @@
-package home.adipopescu.springbootquickstart.topic;
+package home.adipopescu.springbootquickstart.shared;
 
 public class MultipleResultException extends RuntimeException {
 }

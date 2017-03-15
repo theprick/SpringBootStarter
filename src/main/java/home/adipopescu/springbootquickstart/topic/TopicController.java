@@ -1,5 +1,7 @@
 package home.adipopescu.springbootquickstart.topic;
 
+import home.adipopescu.springbootquickstart.shared.MultipleResultException;
+import home.adipopescu.springbootquickstart.shared.ResultNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
